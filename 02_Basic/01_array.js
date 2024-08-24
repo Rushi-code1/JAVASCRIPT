@@ -58,3 +58,9 @@ console.log(real_another_array);
 console.log(Array.isArray("Rushikesh"));
 console.log(Array.from("rushikesh"));
 
+let score1 = 100
+let score2 = 200
+let score3 = 300
+let score4 = 400
+
+console.log(Array.of(score1,score2,score3,score4))
